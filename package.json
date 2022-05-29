@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "riot-lol-api": "^4.3.4",
+    "teemojs": "^1.8.0",
+    "tmi.js": "^1.8.5"
+  }
+}
